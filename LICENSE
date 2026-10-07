@@ -1,0 +1,9 @@
+MuffinEMU's own files in this repository (manifest.json, the generated no-cover art in
+generic/, and the notes and scripts in tools/) are licensed under the same license as
+the MuffinEMU project: Mozilla Public License 2.0 (https://www.mozilla.org/MPL/2.0/).
+
+Third-party art is NOT covered by that license. It stays with its owners: the
+publishers of the games (including Nintendo) and the authors of the community packs.
+It is provided for personal use with MuffinEMU only. See CREDITS.md.
+
+The no-cover box is rendered with box3d by RtaSistemas (MIT).
